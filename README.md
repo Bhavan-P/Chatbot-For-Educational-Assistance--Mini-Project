@@ -38,3 +38,8 @@ The Educational Assistant Chatbot is an AI-driven tool designed to provide educa
 5. **Run the application:**
     ```bash
    python app.py
+## Acknowledgments
+
+- Thanks to the contributors of the [Wikipedia API](https://www.mediawiki.org/wiki/API:Main_page) for providing access to a wealth of knowledge.
+- Special thanks to the [Flask framework](https://flask.palletsprojects.com/) for its simplicity and flexibility in building web applications.
+- Appreciation to the open-source community for providing valuable resources and libraries that make projects like this possible.
