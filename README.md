@@ -22,12 +22,12 @@ The Educational Assistant Chatbot is an AI-driven tool designed to provide educa
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/educational-assistant-chatbot.git
+   git clone https://github.com/Bhavan-P/Chatbot-For-Educational-Assistance--Mini-Project.git
 
 
 2. **Navigate to the project directory:**
    ```bash
-   cd educational-assistant-chatbot
+   cd Chatbot-For-Educational-Assistance--Mini-Project
 3. **Install the required dependencies:**
    ```bash
    pip install wikipedia
