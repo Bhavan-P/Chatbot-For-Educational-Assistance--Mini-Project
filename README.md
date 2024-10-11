@@ -31,4 +31,11 @@ The Educational Assistant Chatbot is an AI-driven tool designed to provide educa
 3. **Install the required dependencies:**
    ```bash
    pip install wikipedia
-   pip install flask   
+   pip install flask
+4. **Set up the Flask application:**
+       ```bash
+   FLASK_ENV=development
+5. **Run the application:**
+      ```bash
+   python app.py
+
